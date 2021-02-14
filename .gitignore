@@ -46,3 +46,5 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+Assets/profilerLog.txt.raw
+Assets/profilerLog.txt.raw.meta
